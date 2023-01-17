@@ -28,7 +28,7 @@ while resp != '4':
     print('presione "1" para alterar o saldo.')
     print('Presione "2" para checar os lembretes.')
     print('Precione "3" para checar o saldo de Emergencia.')
-    print('Precione "4" para sair')
+    print('Precione "4" para sair.')
     resp = input('Qual das opções acima? ')
     if resp == '1':
         print('Configurações de saldo')
