@@ -1,5 +1,5 @@
 from time import sleep
-resp = ''
+resp = '' 
 print('Crie sua conta no banco!')
 print('instruções: o nome de usuario deve ter mais de 4 caracteres,')
 print('a senha deve conter mais de 3 caracteres')
